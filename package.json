@@ -1,0 +1,21 @@
+{
+  "name": "autofunds-inventory-scrape",
+  "version": "0.0.1",
+  "type":"module",
+  "description": "Node function to retreive inventory of used car dealer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "choice",
+    "motor",
+    "car",
+    "inventory"
+  ],
+  "author": "Arnas Jelizarovas",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.7.5"
+  }
+}
